@@ -89,7 +89,8 @@
 	
 
 ?>
-
+<br>
+<a href="table.php">table</a>
 <h2> First application </h2>
 
 <form method="get">
